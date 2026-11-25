@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  
+  <title>NBA - Momčadi i igrači</title>
+</head>
+
+<body>
+<a name="Vrhstranice"></a>
+  <!-- Autor stranice: Osoba 2 -->
+  <!-- Zaglavlje, izbornik i podnožje ubacuju se prema verzijama Osobe 1 i Osobe 3 -->
+
+
+<a href="https://www.nba.com/" target="_blank"><img src="slike\NBA_logo.svg"></a>  
+
+
+<h1 align="Center">NBA - Momčadi i igrači</h1>
+
+    <p align="Center">
+      NBA (National Basketball Association) najjača je košarkaška liga na svijetu.
+      U njoj se natječe 30 momčadi podijeljenih u Istočnu i Zapadnu konferenciju.
+    </p>
+
+    <hr>
+
+    <h2>Momčadi po konferencijama</h2>
+
+    <h3>Istočna konferencija</h3>
+    <ul type="square">
+      <li>Atlanta Hawks</li>
+      <li style="color: rgb(0, 134, 56);">Boston Celtics</li>
+      <li>Brooklyn Nets</li>
+      <li>Charlotte Hornets</li>
+      <li style="color: red;">Chicago Bulls</li>
+      <li>Cleveland Cavaliers</li>
+      <li>Detroit Pistons</li>
+      <li>Indiana Pacers</li>
+      <li>Miami Heat</li>
+      <li>Milwaukee Bucks</li>
+      <li>New York Knicks</li>
+      <li>Orlando Magic</li>
+      <li>Philadelphia 76ers</li>
+      <li>Toronto Raptors</li>
+      <li>Washington Wizards</li>
+    </ul>
+
+    <h3>Zapadna konferencija</h3>
+    <ul type="circle">
+      <li>Dallas Mavericks</li>
+      <li>Denver Nuggets</li>
+      <li style="color: #1d428a;">Golden State Warriors</li>
+      <li>Houston Rockets</li>
+      <li>Los Angeles Clippers</li>
+      <li style="color: #5f2496;">Los Angeles Lakers</li>
+      <li>Memphis Grizzlies</li>
+      <li>Minnesota Timberwolves</li>
+      <li>New Orleans Pelicans</li>
+      <li>Oklahoma City Thunder</li>
+      <li>Phoenix Suns</li>
+      <li>Portland Trail Blazers</li>
+      <li>Sacramento Kings</li>
+      <li>San Antonio Spurs</li>
+      <li>Utah Jazz</li>
+    </ul>
+
+    <hr>
+
+    <h2>Najbolji strijelci u povijesti NBA lige</h2>
+    <p>Poredak provjerite na nba.com jer se mijenja.</p>
+    <ol type="1">
+      <li>LeBron James</li>
+      <li>Kareem Abdul-Jabbar</li>
+      <li>Karl Malone</li>
+      <li>Kobe Bryant</li>
+      <li>Michael Jordan</li>
+    </ol>
+
+    <h3>Legende po momčadima</h3>
+    <ol type="I">
+      <li>Los Angeles Lakers: Magic Johnson</li>
+      <li>Boston Celtics: Larry Bird</li>
+      <li>Chicago Bulls: Michael Jordan</li>
+      <li>San Antonio Spurs: Tim Duncan</li>
+    </ol>
+
+    <h3>Pozicije u košarci</h3>
+    <ol type="a">
+      <li>Plejmejker (Point Guard)</li>
+      <li>Bek šuter (Shooting Guard)</li>
+      <li>Mali krilni igrač (Small Forward)</li>
+      <li>Krilni centar (Power Forward)</li>
+      <li>Centar (Center)</li>
+    </ol>
+
+    <hr>
+
+    <h2>Boje poznatih momčadi</h2>
+    <p>Boje su zadane na tri načina: HEX zapisom, RGB zapisom i nazivom.</p>
+
+    <p >Los Angeles Lakers: ljubičasta, HEX #552583</p>
+    <p >Boston Celtics: zelena, RGB rgb(0, 122, 51)</p>
+    <p >Chicago Bulls: crvena, naziv red</p>
+    <p ">Golden State Warriors: plava, HEX #1d428a</p>
+
+    <hr>
+
+    <h2>Službene stranice</h2>
+    <ul>
+      <li><a href="https://www.nba.com/" target="_blank">Službena stranica NBA lige</a></li>
+      <li><a href="https://www.nba.com/lakers" target="_blank">Los Angeles Lakers</a></li>
+      <li><a href="https://www.nba.com/celtics" target="_blank">Boston Celtics</a></li>
+      <li><a href="https://www.nba.com/bulls" target="_blank">Chicago Bulls</a></li>
+      <li><a href="https://www.nba.com/warriors" target="_blank">Golden State Warriors</a></li>
+    </ul>
+
+   
+<a href="#Vrhstranice">vrati me na vrh</a>
+  
+
+</body>
+</html>
